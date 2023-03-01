@@ -8,3 +8,9 @@ Benford's law, also known as the first-digit law, is a statistical principle tha
 
 One interesting application of Benford's law is in fraud detection. If a dataset deviates significantly from the expected distribution of first digits, it may be an indication that the data has been manipulated or fabricated. For example, if a company's financial statements show an unusually high proportion of numbers starting with the digit 9, it could be a red flag for fraudulent activity.
 
+### Benford's Law Graph:
+
+![benford](https://user-images.githubusercontent.com/95336274/222050901-1f2d75f0-3267-4de9-bed3-da3386509427.jpeg)
+
+### Graph of the Adani Enterprises compared to Benford's Law:
+
