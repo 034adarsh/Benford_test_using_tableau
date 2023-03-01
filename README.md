@@ -21,12 +21,20 @@ The above graph shows the percentage deviation from the Benfod's law. I have tak
 ### For Example:
 
 When in the same example you have three players A, B, C
+
 Transaction 1: A buys 100 shares, B sells 100 shares
+
 Volume = 100
+
 Transaction 2 = A sells 70 shares, C buys 70 shares
+
 Volume = 70
+
 Total day transaction = 100 + 70 = 170
+
 A buys 30 shares in delivery (100-70)
+
 B sells 100 shares in delivery and C buys 70 shares in delivery
+
 So A and C buys 100 (30+70) in delivery, B sells 100 shares in delivery
 
