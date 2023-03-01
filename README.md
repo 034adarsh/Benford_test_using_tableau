@@ -14,3 +14,5 @@ One interesting application of Benford's law is in fraud detection. If a dataset
 
 ### Graph of the Adani Enterprises compared to Benford's Law:
 
+<img width="1049" alt="Screenshot 2023-02-28 at 1 42 45 AM" src="https://user-images.githubusercontent.com/95336274/222051215-aff35df9-9208-491d-97aa-f17a4e2e749a.png">
+
