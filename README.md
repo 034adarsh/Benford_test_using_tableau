@@ -16,3 +16,17 @@ One interesting application of Benford's law is in fraud detection. If a dataset
 
 <img width="1049" alt="Screenshot 2023-02-28 at 1 42 45 AM" src="https://user-images.githubusercontent.com/95336274/222051215-aff35df9-9208-491d-97aa-f17a4e2e749a.png">
 
+The above graph shows the percentage deviation from the Benfod's law. I have taken only two columns from the dataset and those are: the no. of shares and the deliverable quantity. No. of shares refers to the volume of trade on a perticular day and deliverable quantity is the total no. of shares delivered to the investors.
+
+### For Example:
+
+When in the same example you have three players A, B, C
+Transaction 1: A buys 100 shares, B sells 100 shares
+Volume = 100
+Transaction 2 = A sells 70 shares, C buys 70 shares
+Volume = 70
+Total day transaction = 100 + 70 = 170
+A buys 30 shares in delivery (100-70)
+B sells 100 shares in delivery and C buys 70 shares in delivery
+So A and C buys 100 (30+70) in delivery, B sells 100 shares in delivery
+
